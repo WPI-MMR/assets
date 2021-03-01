@@ -12,4 +12,4 @@ the repo:
 
 **Our Solo 8 w/ a foot**
 - URDF (Coming soon!)
-- [CAD](https://wpi-mmr.github.io/Solo8V3.html)
+- [CAD](https://wpi-mmr.github.io/html/solo8v3.html)
