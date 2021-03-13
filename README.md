@@ -11,5 +11,5 @@ the repo:
 - [CAD](https://open-dynamic-robot-initiative.github.io/cad_files/quadruped_8dof_v2)
 
 **Our Solo 8 w/ a foot**
-- URDF (Coming soon!)
+- [URDF](solo8_URDF_v2/solo8_URDF_v3.urdf)
 - [CAD](https://wpi-mmr.github.io/html/solo8v3.html)
