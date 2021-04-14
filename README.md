@@ -12,7 +12,7 @@ the repo:
 
 ### [Latest] Our Weight-Reduced Solo 8 w/ a foot
 - [URDF](solo8_URDF_v4/solo8_URDF_v4.urdf)
-- [CAD](https://wpi-mmr.github.io/html/solo8v3.html)
+- CAD [Coming soon!]
 
 CHANGELOG
 - Removed PDUs to reflect real-world modifications
